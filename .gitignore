@@ -173,6 +173,6 @@ cython_debug/
 
 # geekshop --->
 
-tmp
+tmp/
 
 # <--- geekshop
