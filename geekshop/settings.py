@@ -164,7 +164,7 @@ EMAIL_USE_SSL = False
 # EMAIL_USE_TLS = True
 
 # EMAIL_HOST_USER = "django@geekshop.local"
-E# MAIL_HOST_PASSWORD = "geekshop"
+# MAIL_HOST_PASSWORD = "geekshop"
 # For debugging: python -m smtpd -n -c DebuggingServer localhost:25
 EMAIL_HOST_USER = None
 EMAIL_HOST_PASSWORD = None
