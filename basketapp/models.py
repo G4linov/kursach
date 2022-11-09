@@ -1,4 +1,4 @@
-rom django.conf import settings
+from django.conf import settings
 from django.db import models
 from django.shortcuts import get_object_or_404
 
@@ -36,4 +36,4 @@ class Basket(models.Model):
 
     @staticmethod
     def get_item(pk):
-        return get_object_or_404(Basket, pk=pk)
+        return get_object_or_404(Basket, pk=pk) 
