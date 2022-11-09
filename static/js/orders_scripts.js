@@ -66,3 +66,4 @@ indow.onload = function () {
         prefix: 'orderitems',
         removed: deleteOrderItem
     });
+}
